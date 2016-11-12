@@ -1,6 +1,6 @@
 {
   "name": "path-to-regexp-es6",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "description": "Exports path-to-regexp as a es6 module",
   "author": {
@@ -8,7 +8,6 @@
     "email": "ryan@megidov.com"
   },
   "main": "index.js",
-  "typings": "node_modules/path-to-regexp/index.d.ts",
   "scripts": {},
   "keywords": [
     "express",
